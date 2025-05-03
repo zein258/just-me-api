@@ -1,0 +1,16 @@
+{
+      "name": "text-utils-server",
+        "version": "1.0.0",
+          "description": "A simple Node.js server for text splitting, validation, UID formatting, and more.",
+            "main": "server.js",
+              "scripts": {
+                  "start": "node server.js",
+                      "keep-alive": "node keep_alive.js"
+                        },
+                          "author": "JanCharles",
+                            "license": "MIT",
+                              "dependencies": {
+                                  "express": "^4.19.2"
+                                    }
+                                    }
+}
